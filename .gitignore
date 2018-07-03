@@ -2,3 +2,8 @@
 
 TutorialLevelxBot
 TutorialLevelyBot
+
+
+out/
+.idea/
+bwapi-data/
