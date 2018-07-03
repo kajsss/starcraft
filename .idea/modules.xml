@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/6DronZerglingBot/6DronZerglingBot.iml" filepath="$PROJECT_DIR$/6DronZerglingBot/6DronZerglingBot.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasicBot/BasicBot.iml" filepath="$PROJECT_DIR$/BasicBot/BasicBot.iml" />
       <module fileurl="file://$PROJECT_DIR$/TutorialLevel0Bot/TutorialLevel0Bot.iml" filepath="$PROJECT_DIR$/TutorialLevel0Bot/TutorialLevel0Bot.iml" />
       <module fileurl="file://$PROJECT_DIR$/TutorialLevel1Bot/TutorialLevel1Bot.iml" filepath="$PROJECT_DIR$/TutorialLevel1Bot/TutorialLevel1Bot.iml" />
       <module fileurl="file://$PROJECT_DIR$/TutorialLevel2Bot/TutorialLevel2Bot.iml" filepath="$PROJECT_DIR$/TutorialLevel2Bot/TutorialLevel2Bot.iml" />
       <module fileurl="file://$PROJECT_DIR$/TutorialLevel3Bot/TutorialLevel3Bot.iml" filepath="$PROJECT_DIR$/TutorialLevel3Bot/TutorialLevel3Bot.iml" />
       <module fileurl="file://$PROJECT_DIR$/TutorialLevel4Bot/TutorialLevel4Bot.iml" filepath="$PROJECT_DIR$/TutorialLevel4Bot/TutorialLevel4Bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/darkTemplarRushBot/darkTemplarRushBot.iml" filepath="$PROJECT_DIR$/darkTemplarRushBot/darkTemplarRushBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastMutalBot/fastMutalBot.iml" filepath="$PROJECT_DIR$/fastMutalBot/fastMutalBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flameTerranBot/flameTerranBot.iml" filepath="$PROJECT_DIR$/flameTerranBot/flameTerranBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hardcoreZealotBot/hardcoreZealotBot.iml" filepath="$PROJECT_DIR$/hardcoreZealotBot/hardcoreZealotBot.iml" />
     </modules>
   </component>
 </project>
