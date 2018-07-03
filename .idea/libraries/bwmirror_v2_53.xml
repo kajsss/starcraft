@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bwmirror_v2_53">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TutorialLevel2Bot/lib/bwmirror_v2_5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
